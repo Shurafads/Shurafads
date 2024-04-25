@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![codewars](https://www.codewars.com/users/fadsozaur/badges/large)](https://www.codewars.com/users/fadsozaur)
+[![codewars](https://www.codewars.com/users/fadsozaur/badges/micro)](https://www.codewars.com/users/fadsozaur)
 
 <!--
 **Shurafads/Shurafads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
